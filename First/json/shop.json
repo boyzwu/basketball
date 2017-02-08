@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "pic": "http://101.200.183.103:8888/shop/images/home/gallery/1.png",
+        "title": "限时抢购",
+        "type": "1"
+    },
+    {
+        "id": "2",
+        "pic": "http://101.200.183.103:8888/shop/images/home/gallery/2.png",
+        "title": "促销快报",
+        "type": "2"
+    },
+    {
+        "id": "3",
+        "pic": "http://101.200.183.103:8888/shop/images/home/gallery/3.png",
+        "title": "新品上架",
+        "type": "3"
+    },
+    {
+        "id": "4",
+        "pic": "http://101.200.183.103:8888/shop/images/home/gallery/4.png",
+        "title": "热门单品",
+        "type": "4"
+    },
+    {
+        "id": "5",
+        "pic": "http://101.200.183.103:8888/shop/images/home/gallery/5.png",
+        "title": "推荐品牌",
+        "type": "5"
+    }
+]
